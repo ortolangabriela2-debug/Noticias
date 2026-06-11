@@ -1,0 +1,48 @@
+[data-bs-theme=dark] {
+  --bs-focus-ring-opacity: 0;
+}
+
+.p-4 {
+  padding: 1.5rem!important;
+}
+
+.py-3 {
+  padding-top: 1rem!important;
+  padding-bottom: 1rem!important;
+}
+
+.py-4 {
+  padding-top: 1.5rem!important;
+  padding-bottom: 1.5rem!important;
+}
+
+.pt-0 {
+  padding-top: 0!important;
+}
+
+.pe-0 {
+  padding-right: 0!important;
+}
+
+.pe-9 {
+  padding-right: 9rem !important;
+}
+
+.pb-0 {
+  padding-bottom: 0!important;
+}
+
+@media (min-width:992px) {
+  .py-lg-5 {
+    padding-top: 3rem!important;
+    padding-bottom: 3rem!important;
+  }
+}
+
+@media (min-width:1200px) {
+  .py-xl-5 {
+    padding-top: 3rem!important;
+    padding-bottom: 3rem!important;
+  }
+}
+
